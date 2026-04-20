@@ -1,37 +1,69 @@
 <h1 align="center">Hi 👋, I'm Ganesh Dasrla</h1>
+<h3 align="center">Senior Software Engineer | .NET Full Stack Developer | Aspiring Data Scientist</h3>
 
-## Overview
+<p align="center">
+  Software professional with 12+ years of experience in building and maintaining enterprise applications using .NET and modern web technologies.
+</p>
 
-Welcome to my repository! This space is dedicated to documenting my journey through a comprehensive Data Science course while leveraging my background in web development and .NET technologies. Here, you'll find various projects, assignments, and notes that showcase my learning progress and practical implementations.
+---
 
 ## About Me
 
-I am an aspiring Data Scientist with a strong foundation in software and web development. My technical expertise includes:
+I am a Senior Software Engineer with over 12 years of experience in software development, specializing in .NET technologies and modern frontend frameworks. I have worked on enterprise applications, backend services, web-based solutions, and production support.
 
-- **Web Technologies:** ReactJS, Angular 2.0
-- **.NET Technologies:** MVVM, WPF, WCF, ASP.NET
+In addition to my strong software engineering background, I am actively expanding my skills in Data Science, Machine Learning, and analytics to build intelligent, data-driven applications.
 
-Currently, I am expanding my skill set through a Data Science course, where I am learning to use data for insightful decisions and innovative solutions.
+---
 
-## Objectives
+## Professional Summary
 
-1. **Master Data Science Concepts:** Gain a deep understanding of data analysis, machine learning, statistical modeling, and data visualization.
-2. **Integrate Development Skills:** Leverage my web and .NET development experience to create robust, data-driven applications.
-3. **Practical Projects:** Apply theoretical knowledge to real-world problems through hands-on projects and case studies.
+- 12+ years of experience in software development and support
+- Strong expertise in **C#**, **.NET**, **ASP.NET**, **WCF**, **WPF**, and **MVVM**
+- Frontend experience with **ReactJS**, **Angular**, **JavaScript**, **HTML**, and **CSS**
+- Experience in building and maintaining enterprise-grade business applications
+- Good knowledge of **SQL Server**, **MySQL**, and application integration
+- Currently upskilling in **Python**, **Machine Learning**, **Data Analysis**, and **Data Visualization**
+- Open to opportunities in **Full Stack Development** and **Data Science**
+
+---
+
+## Technical Skills
+
+**Languages:**  
+C#, JavaScript, Python, SQL, C++
+
+**Backend:**  
+.NET, ASP.NET, WCF, WPF, MVVM
+
+**Frontend:**  
+ReactJS, Angular, HTML5, CSS3
+
+**Databases:**  
+SQL Server, MySQL
+
+**Data Science & ML:**  
+Python, Pandas, Scikit-learn, Seaborn, Matplotlib, OpenCV
+
+**Tools:**  
+Git, Visual Studio
+
+---
 
 ## Current Focus
 
-- **Data Analysis and Visualization:** Learning to manipulate and visualize data using tools like Pandas, Matplotlib, and Seaborn.
-- **Machine Learning:** Understanding and implementing machine learning algorithms using libraries such as Scikit-learn and TensorFlow.
-- **Statistical Methods:** Applying statistical techniques to analyze and interpret data.
+- Strengthening my knowledge in **Data Science** and **Machine Learning**
+- Building practical projects using **Python**, **Pandas**, and **Scikit-learn**
+- Combining software engineering expertise with analytics and intelligent systems
 
-## Future Goals
+---
 
-- **Advanced Machine Learning:** Explore advanced machine learning topics, including deep learning and neural networks.
-- **Big Data Technologies:** Learn big data tools and frameworks like Hadoop and Spark for large-scale data processing.
-- **Full-Stack Data Applications:** Develop full-stack applications that integrate data science models with web and software development.
+## Career Objective
 
-## Connect with me
+My goal is to leverage my strong software development background along with data science skills to build scalable, intelligent, and impactful applications.
+
+---
+
+## Connect with Me
 
 <table>
   <tr>
@@ -59,6 +91,8 @@ Currently, I am expanding my skill set through a Data Science course, where I am
   </tr>
 </table>
 
+---
+
 ## Languages and Tools
 
 <table>
@@ -83,6 +117,8 @@ Currently, I am expanding my skill set through a Data Science course, where I am
     <td align="center"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a><br />Seaborn</td>
   </tr>
 </table>
+
+---
 
 ## GitHub Stats
 
